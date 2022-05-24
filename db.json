@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "dazler",
+      "brand": "kajal"
+    },
+    {
+      "id": 2,
+      "name": "eyetex",
+      "brand": "bindi"
+    },
+    {
+      "id": 3,
+      "name": "Lakme",
+      "brand": "lipstick"
+    },
+    {
+      "id": 8,
+      "name": "hhhhhh",
+      "author": "jhdfjhdfj"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
